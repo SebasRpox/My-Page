@@ -1,0 +1,193 @@
+body{
+    background-color: lightgray;
+    margin: 0px auto;
+    font: oblique bold 120% cursive;
+    line-height: 150%;
+    padding: 10px;
+}
+.banner__img-bandeja img{
+    border-radius: 10px;
+}
+.container_history{
+
+    margin: 0px auto;
+    width: 70%;
+}
+.container_history h2{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+.header__menu h1{
+    text-align: center;
+    font-size: 40px;
+    font-size-adjust: 1.5;
+}
+.clearfix{
+    clear: both;
+}
+aside{
+    float: left;
+    width: 20%;
+    padding: 15px;
+    color: darkblue;
+}
+.header__menu{
+    text-align: center;
+    width: 1320px;;
+    border: 5px solid blue;
+    background-color: rgb(136, 171, 236);
+    color: rgb(0, 0, 0);
+    height: 180px;
+    float: left;
+
+}
+.header__menu ul li{
+    text-align: center;
+    float: left;
+    margin: 12px;
+    line-height: 25px;
+}
+
+.header__menu a{
+    margin: 0px auto;
+    color: black;
+    padding: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.header__menu a:hover{
+    background-color: rgb(4, 0, 255);
+    border-radius: 10px;
+}
+.banner{
+    padding: 80px 0 0 80px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+.ingredientes__card {
+    margin: 50px;
+    padding: 10px;
+}
+.ingredientes__box img{
+    border-radius: 10px;
+}
+.ingredientes__box{
+    margin: 15px;
+    box-shadow: 0px 1px 8px 1px rgb(6, 42, 82);
+    border-radius: 10px;
+    width: 33%;
+}
+.ingredientes_1{
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}
+.ingredientes_2{
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}
+.ingredientes_3{
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}
+.ingredientes_4 {
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}
+.ingredientes_4 .ingredientes__box{
+    align-content: center;
+    display: flex;
+    margin: 0 auto;
+}
+.ingredientes_hogao_1 {
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}.ingredientes_hogao_2   {
+    display: flex;
+    margin: 0 auto;
+    padding: -5px;
+}
+.ingredientes_hogao__card {
+    margin: 50px;
+    padding: 10px;
+}
+.ingredientes_hogao__box img{
+    border-radius: 10px;
+}
+.ingredientes_hogao__box{
+    margin: 15px;
+    box-shadow: 0px 1px 8px 1px rgb(6, 42, 82);
+    border-radius: 10px;
+    width: 33%;
+}
+.pre_preparacion{
+    margin: 0px auto;
+    width: 70%;
+}
+.pre_preparacion h2{
+    text-align: left 20px;
+    font-size: 30px;
+    color: blue;
+}
+.pre_preparacion img{
+    border-radius: 10px;
+}
+.links h1{
+    padding: 5px;
+    margin: 10px;
+    top: 10px;
+}
+.pre_preparacion_2{
+    margin: 0px auto;
+    width: 70%;
+}
+.pre_preparacion_2 h3{
+    color: darkblue;
+}
+.consejos h2{
+    color: blue;
+}
+.pre_preparacion h3{
+    color: darkblue;
+}
+.preparacion_hogao h3{
+    color: darkblue;
+}
+.preparacion_hogao h2{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+.banner__text-bandeja h2{
+    color: black;
+}
+.consejos img{
+    margin: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 1px 8px 1px rgb(6, 42, 82);
+    border-radius: 10px;
+    width: 33%;
+}
+.consejos h3{
+    color: darkblue;
+}
